@@ -9,6 +9,8 @@ This code takes input in the form of JSON as provided by Azure Computer vison OC
 virutual box defined by an if statement.  The text is then written to the console.  It would be easy to turn this into a function
 and return the text as a string.
 
+Pushed to Github
+
 */
 
 
