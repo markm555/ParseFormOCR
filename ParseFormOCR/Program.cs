@@ -3,13 +3,11 @@ using System;
 using System.Collections.Generic;
 
 /*
-07302020 - Mark Moore markm@microsoft.com
+07302020 - Mark Moore
 
 This code takes input in the form of JSON as provided by Azure Computer vison OCR and scrapes the text from a specific portion of the form in a
 virutual box defined by an if statement.  The text is then written to the console.  It would be easy to turn this into a function
 and return the text as a string.
-
-Pushed to Github
 
 */
 
